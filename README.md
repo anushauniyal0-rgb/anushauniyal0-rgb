@@ -1,31 +1,43 @@
-# Hi, I'm Anusha Uniyal 👋
+Hi, I'm Anusha Uniyal 👋
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Aspiring Web Developer
+💻 Aspiring Software & Web Developer
 
-🌱 Currently learning C, HTML, CSS and JavaScript.
+🌱 Currently Learning C, HTML, CSS, JavaScript and Java
 
-🚀 Interested in Web Development, Problem Solving and Technology.
+🔐 Interested in Cybersecurity, AI and Software Development
 
-## 🛠️ Skills I'm Learning
+🛠️ Technologies & Skills
+
 - C Programming
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Git & GitHub
 
-## 📂 My Projects
+🚀 Featured Projects
 
-### EnviroTrace – Environmental Forensics
-An environmental forensics website project focused on presenting environmental sample analysis and reporting concepts.
+1. ENVIROTRACE
 
-- Live Website: https://anushauniyal0-rgb.github.io/ENVIROTRACE/
-- Repository: https://github.com/anushauniyal0-rgb/ENVIROTRACE
+Environmental forensics and sample analysis project.
 
-## 🎯 My Goals
-- Improve my programming skills
-- Build practical projects
-- Learn modern web development
-- Prepare for future internship opportunities
+- Live Demo: "View Website" (https://anushauniyal0-rgb.github.io/ENVIROTRACE/)
+- Source Code: "GitHub Repository" (https://github.com/anushauniyal0-rgb/ENVIROTRACE)
 
-Thanks for visiting my profile!
+🎯 Currently Working On
+
+- Improving programming fundamentals
+- Building practical web applications
+- Learning software development
+- Exploring cybersecurity
+
+🏆 Activities & Achievements
+
+- Participated in Smart India Hackathon 2026
+- Participated in technology and innovation activities
+
+🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/anushauniyal
+- GitHub: https://github.com/anushauniyal0-rgb
