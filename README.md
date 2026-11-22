@@ -1,43 +1,70 @@
-Hi, I'm Anusha Uniyal 👋
+👋 Hi, I'm Anusha Uniyal
 
-🎓 B.Tech Computer Science Engineering Student
+Cybersecurity Enthusiast | Aspiring Software Developer
 
-💻 Aspiring Software & Web Developer
+🎓 First-Year B.Tech Computer Science Engineering Student at CGC University, Mohali.
 
-🌱 Currently Learning C, HTML, CSS, JavaScript and Java
+I am passionate about technology, software development, and understanding how digital systems can be built securely.
 
-🔐 Interested in Cybersecurity, AI and Software Development
+I enjoy learning programming, experimenting with web technologies, and creating practical projects.
 
-🛠️ Technologies & Skills
+---
+
+👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering.
+- 🔐 Interested in Cybersecurity and Information Security.
+- 💻 Exploring Software and Web Development.
+- 🌱 Learning programming and development fundamentals.
+- 🚀 Building practical projects and improving my technical skills.
+
+🛠️ Technical Skills
+
+Programming
 
 - C Programming
-- HTML5
-- CSS3
+
+Web Development
+
+- HTML
+- CSS
 - JavaScript
-- Git & GitHub
+
+Tools
+
+- Git
+- GitHub
+- VS Code
 
 🚀 Featured Projects
 
 1. ENVIROTRACE
 
-Environmental forensics and sample analysis project.
+An Environmental Forensics project focused on environmental sample analysis and reporting.
 
-- Live Demo: "View Website" (https://anushauniyal0-rgb.github.io/ENVIROTRACE/)
-- Source Code: "GitHub Repository" (https://github.com/anushauniyal0-rgb/ENVIROTRACE)
+- "Live Demo" (https://anushauniyal0-rgb.github.io/ENVIROTRACE/)
+- "Source Code" (https://github.com/anushauniyal0-rgb/ENVIROTRACE)
 
-🎯 Currently Working On
+🎯 Current Learning Goals
 
-- Improving programming fundamentals
-- Building practical web applications
-- Learning software development
-- Exploring cybersecurity
+- Strengthening programming fundamentals.
+- Learning software development.
+- Understanding cybersecurity fundamentals.
+- Building interactive web applications.
+- Learning secure coding practices.
 
-🏆 Activities & Achievements
+🏆 Activities
 
-- Participated in Smart India Hackathon 2026
-- Participated in technology and innovation activities
+- Internal Smart India Hackathon 2026 participant.
+- Participating in technology and innovation activities.
 
 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/anushauniyal
-- GitHub: https://github.com/anushauniyal0-rgb
+- "LinkedIn" (https://www.linkedin.com/in/anushauniyal)
+- "GitHub" (https://github.com/anushauniyal0-rgb)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Learn | Build | Secure | Innovate
